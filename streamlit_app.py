@@ -41,7 +41,7 @@ with col2:
     st.write("Empresa mundialmente conhecida por jogar muito.")
     st.link_button(
         "Acessar Site",
-        "https://www.flamengo.com.br"
+        "https://www.flamengo.com.br/"
     )
 
 # =========================================
